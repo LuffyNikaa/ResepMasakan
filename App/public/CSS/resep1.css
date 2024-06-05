@@ -1,0 +1,119 @@
+body{
+    background-color: #f6eee4;
+}
+.container-fluid {
+    background-color: #d4371c;
+    margin-top: -10px;
+}
+.navbar{
+    background: transparent;
+    transition: all ease .45s;
+}
+.navbar-brand{
+    color: #f6eee4;
+    font-weight: bold;
+    font-size: 50px;
+}
+.navbar-brand img{
+    border-radius: 50%;
+    border-color: #684e3e;
+    border: 3px solid;
+}
+.navbar-brand:hover{
+    color: #f6eee4;
+}
+.nav-link{
+    color: #f6eee4;
+    margin: 0 20px;
+    transition: all ease .50s;
+    font-weight: bolder;
+    font-size: large;
+}
+.nav-link:hover{
+    color: #f6eee4;
+    background-color: #d88d64;
+    padding-left: 10px;
+    border-radius: 35px;
+}
+.form-control{
+    border-radius: 30px;
+    width: 350px;
+}
+img{
+    border: 5px solid #f6eee4;
+}
+.home{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    flex-wrap: wrap;
+    margin-left: 1px;
+    margin: 120px;
+}
+
+.resep{
+    display: grid;
+}
+#resep{
+    margin: 120px;
+    color: #f6eee4;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 80px;
+    text-shadow:  5px 0px 0 #684e3e,
+                  5px 0px 0 #684e3e;
+    
+}
+.resep {
+    display: flex;
+    height: 100vh;
+    margin: 50px;
+}
+.gambar {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f6eee4;
+}
+.left img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+.judul {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f6eee4;
+}
+.text-content {
+    text-align: center;
+    color: #684e3e;
+    font-size: large;
+    font-weight: bolder;
+    font-family: fantasy;
+}
+.text-content h1{
+    font-weight: bold;
+    font-family: fantasy;
+}
+.tutorial{
+    display: flex;
+    height: 100vh;
+    margin: 50px;
+}
+.bahan{
+    background-color: #d88d64;
+    border-radius: 30px;
+    padding: 20px;
+}
+.tutor{
+    padding: 20px;
+    margin-left: 150px;
+}
+

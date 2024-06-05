@@ -1,0 +1,17 @@
+.order{
+    margin-top: 50px;    
+}
+.order h2{
+    color: #fffd9d;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 80px;
+    text-shadow:  5px 0px 0 #6b0124,
+                  5px 0px 0 #6b0124;
+}
+.formorder{
+    justify-content: center;
+    border: 1px;
+    margin-left: 50px;
+    margin-top: 50px;
+}

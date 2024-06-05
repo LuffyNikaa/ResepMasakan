@@ -1,0 +1,30 @@
+.navbar {
+    background-color: palevioletred;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.navbar a {
+    float:inline-start;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar a:hover {
+    background-color: white;
+    color: palevioletred;
+}
+.main-content {
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: yellowgreen;
+}

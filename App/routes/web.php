@@ -14,5 +14,31 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+
+Route::get('/resep', function () {
+    return view('resep');
+});
+
+Route::get('/resep1', function () {
+    return view('resep1');
+});
+
+Route::get('/artikel', function () {
+    return view('artikel');
+});
+
+Route::get('/artikel1', function () {
+    return view('artikel1');
+});
+
+Route::get('/favorit', function () {
+    return view('favorit');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
+Route::get("/resep", [\App\Http\Controllers\ResepController::class,'index']);
+
