@@ -36,19 +36,19 @@
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
+            </form>    
           </div>
         </div>
       </nav>
     
     <section class="resep">
         <div class="left gambar">
-            <img src="Image/1.nasgor.jpg" alt="Description of the image">
+            <img src="Image/2.ayam_cabe.jpg" alt="Description of the image">
         </div>
         <div class="right judul">
             <div class="text-content">
-                <h1>Resep Nasi Goreng Kambing Kebon Sirih, Kelezatannya Sudah Mendunia</h1>
-                <p>Siapa yang tidak kenal dengan Nasi Goreng Kambing Kebin Sirih khas Jakarta? Kini, kamu bisa membuatnya sendiri dirumah dengan resep ini!</p>
+                <h1>Resep Ayam Cabe Garam a la Restoran, Gurih dan Garing</h1>
+                <p>Bikin ayam cabe garam a la restoran untuk makan siang, yuk! Padukan dengan sayuran hijau tumis bawang putih supaya makin terasa makan di restoran Cina.</p>
             </div>
         </div>
     </section>
@@ -58,12 +58,15 @@
                 <h1>Bahan-bahan</h1>
                 <p>
                     <ul>
-                        <li>300g daging kambing, potong dadu</li>
-                        <li>400g nasi</li>
-                        <li>100g minyak samin</li>
-                        <li>2cm kayu manis</li>
-                        <li>1 lembar daun salam</li>
-                        <li>7 butir</li>
+                        <li>600 G Potong kotak 3 Cm</li>
+                        <li>100 g tepung maizena</li>
+                        <li>4siung bawang putih, cincang</li>
+                        <li>2 cm jahe, cincang</li>
+                        <li>6 buah cabai rawit merah, cincang ang halus</li>
+                        <li>2 buah cabai merah besar, buang bijinya, cincang kasar</li>
+                        <li>2 batang daun bawang, iris</li>
+                        <li>½ sdt garam</li>
+                        <li>Minyak, untuk menggoreng</li>
                     </ul>
                 </p>
             </div> 

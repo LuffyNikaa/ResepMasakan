@@ -36,19 +36,19 @@
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
+            </form>    
           </div>
         </div>
       </nav>
     
     <section class="resep">
         <div class="left gambar">
-            <img src="Image/1.nasgor.jpg" alt="Description of the image">
+            <img src="Image/9.kentang_balado.jpg" alt="Description of the image">
         </div>
         <div class="right judul">
             <div class="text-content">
-                <h1>Resep Nasi Goreng Kambing Kebon Sirih, Kelezatannya Sudah Mendunia</h1>
-                <p>Siapa yang tidak kenal dengan Nasi Goreng Kambing Kebin Sirih khas Jakarta? Kini, kamu bisa membuatnya sendiri dirumah dengan resep ini!</p>
+                <h1>Resep Kentang Balado Basah Sederhana, Lezat dan Mudah Dibuat</h1>
+                <p>Nikmat rasa pedas gurih dari resep kentang balado selalu dinanti kehadirannya di atas meja makan. Simak cara membuat resep sederhana ini, yuk!</p>
             </div>
         </div>
     </section>
@@ -58,12 +58,15 @@
                 <h1>Bahan-bahan</h1>
                 <p>
                     <ul>
-                        <li>300g daging kambing, potong dadu</li>
-                        <li>400g nasi</li>
-                        <li>100g minyak samin</li>
-                        <li>2cm kayu manis</li>
-                        <li>1 lembar daun salam</li>
-                        <li>7 butir</li>
+                        <li>500 g kentang, kupas, potong 1,5 cm</li>
+                        <li>1 batang serai, memarkan</li>
+                        <li>4 lembar daun jeruk, buang tulang daunnya</li>
+                        <li>3 cm lengkuas, memarkan</li>
+                        <li>80 ml air</li>
+                        <li>1 sdm santan instan</li>
+                        <li>½ sdt Royco Kaldu Ayam</li>
+                        <li>1 sdm Bango Kecap Manis</li>
+                        <li>minyak, untuk menumis dan menggoreng</li>
                     </ul>
                 </p>
             </div> 

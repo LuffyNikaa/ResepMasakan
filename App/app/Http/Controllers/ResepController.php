@@ -3,12 +3,13 @@
 namespace App\Http\Controllers;
 
 use App\Models\resep;
+use App\Models\resep1;
 use App\Models\tbl_masakan;
 use Illuminate\Http\Request;
 
+
 class ResepController extends Controller
 {
-    //
     public function index()
     {
         $model_m = new tbl_masakan();

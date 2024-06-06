@@ -36,19 +36,19 @@
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
+            </form>    
           </div>
         </div>
       </nav>
     
     <section class="resep">
         <div class="left gambar">
-            <img src="Image/1.nasgor.jpg" alt="Description of the image">
+            <img src="Image/4.ayam_geprek.jpg" alt="Description of the image">
         </div>
         <div class="right judul">
             <div class="text-content">
-                <h1>Resep Nasi Goreng Kambing Kebon Sirih, Kelezatannya Sudah Mendunia</h1>
-                <p>Siapa yang tidak kenal dengan Nasi Goreng Kambing Kebin Sirih khas Jakarta? Kini, kamu bisa membuatnya sendiri dirumah dengan resep ini!</p>
+                <h1>Resep Ayam Geprek Pedas Istimewa Untuk Ide Jualan</h1>
+                <p>Sambal geprek ayam ini pedasnya bikin lidah terbakar. Yuk, buktikan sendiri kelezatannya untuk santap di rumah hari ini! Mari simak resepnya berikut ini!</p>
             </div>
         </div>
     </section>
@@ -58,12 +58,12 @@
                 <h1>Bahan-bahan</h1>
                 <p>
                     <ul>
-                        <li>300g daging kambing, potong dadu</li>
-                        <li>400g nasi</li>
-                        <li>100g minyak samin</li>
-                        <li>2cm kayu manis</li>
-                        <li>1 lembar daun salam</li>
-                        <li>7 butir</li>
+                        <li>4 filet dada ayam tidak putus</li>
+                        <li>1 sdt garam</li>
+                        <li>½ sdt merica putih bubuk</li>
+                        <li>50 g tepung maizena</li>
+                        <li>1butir telur ayam, kocok lepas</li>
+                        <li>minyak, untuk menggoreng</li>
                     </ul>
                 </p>
             </div> 

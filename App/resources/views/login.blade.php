@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="img/png" href="asset/image/icon.png">
-    <title>Login Page</title>
+    <link rel="icon" type="img/png" href="Image/icon.png">
+    <title>ATWON WEBSITE</title>
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -50,7 +50,7 @@
 </head>
 <body>
     <div class="login-container">
-        <img src="Image/image/Logo.png" alt="Logo">
+        <img src="Image/Logo.png" alt="Logo">
         <form>
             <input type="text" placeholder="Name" required>
             <input type="text" placeholder="Username" required>

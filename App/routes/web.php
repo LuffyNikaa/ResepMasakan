@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ResepController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -42,3 +43,40 @@ Route::get('/login', function () {
 });
 Route::get("/resep", [\App\Http\Controllers\ResepController::class,'index']);
 
+Route::get('/resep/{judul}', [ResepController::class, 'showDetail'])->name('resep1');
+
+Route::get('/resep2', function () {
+    return view('resep2');
+});
+
+Route::get('/resep3', function () {
+    return view('resep3');
+});
+
+Route::get('/resep4', function () {
+    return view('resep4');
+});
+
+Route::get('/resep5', function () {
+    return view('resep5');
+});
+
+Route::get('/resep6', function () {
+    return view('resep6');
+});
+
+Route::get('/resep7', function () {
+    return view('resep7');
+});
+
+Route::get('/resep8', function () {
+    return view('resep8');
+});
+
+Route::get('/resep9', function () {
+    return view('resep9');
+});
+
+Route::get('/resep10', function () {
+    return view('resep10');
+});

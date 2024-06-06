@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>ATWON WEBSITE</title>
-    <link class="icon" rel="icon" type="img/png" href="Image/image/icon.png">
+    <link class="icon" rel="icon" type="img/png" href="Image/icon.png">
     <link href="CSS/bootstrap.css" rel="stylesheet">
     <link href="CSS/index1.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -13,7 +13,7 @@
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            <img src="Image/image/Logo.png" alt="Logo" width="70" height="70">
+            <img src="Image/Logo.png" alt="Logo" width="70" height="70">
           </a>    
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -53,73 +53,58 @@
 
     <div class="recipe">
       <div class="image-placeholder">
-          <img src="Image/image/1.nasgor.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/1.nasgor.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/2.ayam_cabe.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/2.ayam_cabe.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/3.sate_kulitayam.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/3.sate_kulitayam.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/4.ayam_geprek.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/4.ayam_geprek.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/5.ayam_goreng.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/5.ayam_goreng.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
   </div>
   <div class="recipe">
       <div class="image-placeholder">
-          <img src="Image/image/6.ayam_fillet.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/6.ayam_fillet.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/7.oseng_buncis.png" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/7.oseng_buncis.png" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/8.rendang_jengkol.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/8.rendang_jengkol.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/9.kentang_balado.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/9.kentang_balado.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
       <div class="image-placeholder">
-          <img src="Image/image/10.ayam_gorangtepung.jpg" alt="" width="100%" height="100%">
+        <a href="#">
+          <img src="Image/10.ayam_gorangtepung.jpg" alt="" width="100%" height="100%">
+        </a>
       </div>
   </div>
-  <div class="recipe">
-      <div class="image-placeholder">
-          <img src="Image/image/11.sop_ayambening.jpg" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/12.tahu_kocek.jpg" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/13.ayam_bakar.jpg" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/14.bubur_ayam.jpg" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/15.martabak_mie.png" alt="" width="100%" height="100%">
-      </div>
-  </div>
-  <div class="recipe">
-      <div class="image-placeholder">
-          <img src="Image/image/16.sosis_goreng.jpg" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/17.tumis_tempekacang.png" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/18.bola-bola_mie.jpg" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/19.sempol_tahu.jpg" alt="" width="100%" height="100%">
-      </div>
-      <div class="image-placeholder">
-          <img src="Image/image/20.telur_gulung_sosis.jpg" alt="" width="100%" height="100%">
-      </div>
-  </div>
-
     <section class="contack text-center">
         <header id="contack">Ikuti kami</header>
         <div class="sosmed">

@@ -36,19 +36,19 @@
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
+            </form>    
           </div>
         </div>
       </nav>
     
     <section class="resep">
         <div class="left gambar">
-            <img src="Image/1.nasgor.jpg" alt="Description of the image">
+            <img src="Image/8.rendang_jengkol.jpg" alt="Description of the image">
         </div>
         <div class="right judul">
             <div class="text-content">
-                <h1>Resep Nasi Goreng Kambing Kebon Sirih, Kelezatannya Sudah Mendunia</h1>
-                <p>Siapa yang tidak kenal dengan Nasi Goreng Kambing Kebin Sirih khas Jakarta? Kini, kamu bisa membuatnya sendiri dirumah dengan resep ini!</p>
+                <h1>Resep Rendang Jengkol Medok, Empuk dan Tidak Bau</h1>
+                <p>Cara membuat rendang jengkol yang gurih, bumbunya medok, dan lezat. Jangan lupa simak juga tips memasak jengkol supaya empuk dan tidak bau.</p>
             </div>
         </div>
     </section>
@@ -58,12 +58,16 @@
                 <h1>Bahan-bahan</h1>
                 <p>
                     <ul>
-                        <li>300g daging kambing, potong dadu</li>
-                        <li>400g nasi</li>
-                        <li>100g minyak samin</li>
-                        <li>2cm kayu manis</li>
-                        <li>1 lembar daun salam</li>
-                        <li>7 butir</li>
+                        <li>1 kg jengkol tua</li>
+                        <li>400 ml santan kental</li>
+                        <li>700 ml santan encer</li>
+                        <li>2 lembar daun salam</li>
+                        <li>7 lembar daun jeruk</li>
+                        <li>1 batang serai, memarkan</li>
+                        <li>1 lembar daun kunyit</li>
+                        <li>½sdm Royco Kaldu Ayam</li>
+                        <li>3 l air, untuk merebus</li>
+                        <li>3 sdm minyak, untuk menumis</li>
                     </ul>
                 </p>
             </div> 
